@@ -1,0 +1,27 @@
+.homeContainer{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
+  
+  .homeTitle{
+    width: 1024px;
+    font-size: 20px;
+  }
+
+  .guideContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .bigText {
+    margin-top: 100px;
+  }
+  .guideList li {
+    font-size: 20px;
+  }
+  
+  
+  
