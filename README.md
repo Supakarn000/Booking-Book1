@@ -1,6 +1,6 @@
 npm everything first
 
-cd api run api
-cd client run client
-cd admin run admin
+1. cd api run api
+2. cd client run client
+3. cd admin run admin
  
